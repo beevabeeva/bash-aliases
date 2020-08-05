@@ -1,5 +1,5 @@
 # bash-aliases
-A list of aliases I use in ```.bashrc```. Store them here for easy replication on different machines.
+A list of aliases I use in ```.bashrc```. Stored here for easy replication on different machines.
 
 
 # Alias List:
